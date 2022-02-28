@@ -1,0 +1,12 @@
+[
+    { "id" : 1, "plaque" : "TrouDuPete", "puissanceMT" : 15},
+    { "id" : 2, "plaque" : "Vladi", "puissanceMT" : 45},
+    { "id" : 3, "plaque" : "Vlouvlou", "puissanceMT" : 75},
+    { "id" : 4, "plaque" : "BearMarket", "puissanceMT" : 5},
+    { "id" : 5, "plaque" : "Valichon", "puissanceMT" : 12},
+    { "id" : 6, "plaque" : "CreepyJoe", "puissanceMT" : 45},
+    { "id" : 7, "plaque" : "VodkaStar", "puissanceMT" : 13},
+    { "id" : 8, "plaque" : "Poutine", "puissanceMT" : 1},
+    { "id" : 9, "plaque" : "Rushkov", "puissanceMT" : 7},
+    { "id" : 10, "plaque" : "DemocratieMonPete", "puissanceMT" : 18}
+]

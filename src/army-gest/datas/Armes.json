@@ -1,3 +1,5 @@
 {
-    "quantity" : 25
+    "valid" : 25,
+    "destroy" : 10,
+    "inRepair" : 3
 }

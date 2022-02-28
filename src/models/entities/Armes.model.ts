@@ -1,3 +1,5 @@
 export class Armes{
-    quantity : number
+    valid : number
+    destroy : number
+    inRepair : number
 }
